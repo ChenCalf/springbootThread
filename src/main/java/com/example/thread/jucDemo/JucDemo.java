@@ -7,8 +7,6 @@ package com.example.thread.jucDemo;
  * @Date: 2021/5/21 14:43
  */
 public class JucDemo {
-    public static void main(String[] args) {
 
-    }
 
 }
